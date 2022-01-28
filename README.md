@@ -12,22 +12,21 @@
 * Balanced Accuracy Score: Precision Score: Recall Score:
 
 * ### SMOTE
-* * Balanced Accuracy Score: Precision Score: Recall Score:
+* Balanced Accuracy Score: Precision Score: Recall Score:
 
 * ### Undersampling
-* * Balanced Accuracy Score: Precision Score: Recall Score:
+* Balanced Accuracy Score: Precision Score: Recall Score:
 
 * ### Combination
 *  Balanced Accuracy Score: Precision Score: Recall Score:
 
 * ### Balanced Random Forest Classifier
-*  Balanced Accuracy Score: Precision Score: Recall Score:
+* Balanced Accuracy Score: Precision Score: Recall Score:
+
 * ### Easy Ensemble Adaboost
 * Balanced Accuracy Score: Precision Score: Recall Score:
-Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+
+
 ## Summary:
 
-Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+We utilized 3 different types of sampling methods, undersampling, oversampling, and combination sampling. When choosing a machine learning method, one wants high levels of recall and precision. I would reccommend the usage of Easy Ensemble Adaboost as it was high in both categories. 
